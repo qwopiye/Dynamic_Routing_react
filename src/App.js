@@ -1,13 +1,15 @@
 import React from "react";
 import "./App.css";
+import PageTitle from "./component/PageTitle";
 
-
-import Index from './Routes/index'
 
 
 function App() {
-  
- <Index/>
+  return(
+  <div>
+    <PageTitle/>
+    Hello</div>
+  );
 }
 
 export default App;
