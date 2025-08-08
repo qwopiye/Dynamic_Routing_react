@@ -78,3 +78,11 @@ article{
   }
   
 }
+button{
+  color: red;
+  border: 2rem;
+  font-size: 2rem;
+}
+button:hover{
+  background-color: #282c34;
+}
